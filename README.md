@@ -1,7 +1,7 @@
 # lftc
 Limbaje formale si tehnici de compilare - Lab Work for lab2 (Documentation)
 
-The Symbol Table is implemented as a alphabetically sorted array list.]
+The Symbol Table is implemented as a alphabetically sorted array list.
 
 It contains the following methods:
 
